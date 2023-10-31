@@ -1,4 +1,4 @@
-# 01-Blake-Boiteux-Online-Repo
+# Blake-Boiteux-Online-Repo
 Blake's online repo for class - Module 1 Challenge - change nonsemantic elements into semantic elements.
 
 User Story
